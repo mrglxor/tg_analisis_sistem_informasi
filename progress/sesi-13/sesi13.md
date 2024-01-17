@@ -8,4 +8,4 @@ Saya menggunakan kombinasi `MD` dan `Mermaid` untuk menciptakan Requirement ini 
 
 ## Requirement User
 
-Saya menggunakan kombinasi `MD` dan `Mermaid` untuk menciptakan Requirement ini - lihat file [Requirement Database](https://github.com/mrglxor/tg_analisis_sistem_informasi/blob/main/docs/user_requirement.md) untuk detailnya.
+Saya menggunakan kombinasi `MD` dan `Mermaid` untuk menciptakan Requirement ini - lihat file [Requirement User](https://github.com/mrglxor/tg_analisis_sistem_informasi/blob/main/docs/user_requirement.md) untuk detailnya.
