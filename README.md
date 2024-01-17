@@ -1,5 +1,14 @@
 # Analisis Sistem Informasi - Tugas dan Progress
 
+## Informasi Mahasiswa
+
+- Nama: Muhamad Farhan
+- NIM: 22020057
+- Jurusan: Manajemen Informatika D3
+- Dosen Pembimbing: Bapak `Eko Retnadi, M. Kom.`
+- Mata Kuliah: ASI (Analisis Sistem Informasi)
+- Semester: 3
+
 ## Progress Overview
 
 Repository ini digunakan untuk memanage tugas Analisis Sistem Informasi. Setiap sesi progress dan hasil analisis disimpan di dalam folder `/docs`. Struktur folder dan file-file penting adalah sebagai berikut:
@@ -17,12 +26,3 @@ Repository ini digunakan untuk memanage tugas Analisis Sistem Informasi. Setiap 
   - Ini adalah contoh file markdown untuk sesi progress ke-12.
   - File ini berisi penjelasan rinci tentang progress yang telah dilakukan selama sesi tersebut.
   - Setiap file sesi memiliki struktur yang serupa dengan penjelasan rinci, temuan, dan langkah-langkah selanjutnya.
-
-## Informasi Mahasiswa
-
-- Nama: Muhamad Farhan
-- NIM: 22020057
-- Jurusan: Manajemen Informatika D3
-- Dosen Pembimbing: `Eko Retnadi, M. Kom.`
-- Mata Kuliah: ASI (Analisis Sistem Informasi)
-- Semester: 3
